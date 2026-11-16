@@ -1,6 +1,6 @@
 # Aion
 
-![Aion](./assets/aion.jpeg)
+![Aion](./assets/aion.jpg)
 
 > Endless multi-agent system that builds software.
 
